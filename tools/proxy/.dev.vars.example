@@ -1,0 +1,3 @@
+# For `npx wrangler dev` only. Copy to .dev.vars (gitignored) and fill in. Never commit real values.
+ANTHROPIC_API_KEY=sk-ant-REPLACE_ME
+APP_TOKEN=REPLACE_WITH_OUTPUT_OF_openssl_rand_-hex_32

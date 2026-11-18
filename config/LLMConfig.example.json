@@ -1,0 +1,4 @@
+{
+  "proxyURL": "https://avida-claude-proxy.YOUR-SUBDOMAIN.workers.dev/v1/messages",
+  "appToken": "REPLACE_WITH_THE_APP_TOKEN_YOU_SET_ON_THE_WORKER"
+}

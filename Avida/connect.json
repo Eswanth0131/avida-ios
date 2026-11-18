@@ -1,0 +1,293 @@
+[
+  {
+    "id": "lina",
+    "name": "Lina",
+    "home": "Milan, Italy",
+    "face": "connect-face-lina",
+    "experienceCount": 24,
+    "countryCount": 6,
+    "experiences": [
+      {
+        "id": "amalfi-coast",
+        "title": "Along the Amalfi Coast",
+        "place": "Positano",
+        "country": "Italy",
+        "category": "Coast",
+        "year": 2025,
+        "description": "Pastel villages stacked above the sea, a cliff path with the whole coast below, and gardens in Ravello at golden hour.",
+        "image": "connect-amalfi",
+        "stops": [
+          { "name": "Spiaggia Grande, Positano", "duration": "~2 hrs" },
+          { "name": "Path of the Gods", "duration": "~3 hrs" },
+          { "name": "Villa Rufolo, Ravello", "duration": "~1 hr" }
+        ]
+      },
+      {
+        "id": "sorrento-cooking",
+        "title": "A Cooking Class in Sorrento",
+        "place": "Sorrento",
+        "country": "Italy",
+        "category": "Culinary",
+        "year": 2025,
+        "description": "Fresh pasta and lemon everything, then an evening walk from the main square down to the old fishing harbour.",
+        "image": "connect-chef-dinner",
+        "stops": [
+          { "name": "Piazza Tasso", "duration": "~30 min" },
+          { "name": "Villa Comunale", "duration": "~30 min" },
+          { "name": "Marina Grande", "duration": "~1 hr" }
+        ]
+      },
+      {
+        "id": "nagano-snow-monkeys",
+        "title": "Snow Monkeys in Nagano",
+        "place": "Yamanouchi",
+        "country": "Japan",
+        "category": "Nature",
+        "year": 2024,
+        "description": "A snowy forest trail to the hot springs where wild macaques bathe, then a soak of her own in an old onsen town.",
+        "image": "earn-monkeys-1",
+        "stops": [
+          { "name": "Jigokudani Trailhead", "duration": "~20 min" },
+          { "name": "Jigokudani Snow Monkey Park", "duration": "~75 min" },
+          { "name": "Shibu Onsen", "duration": "~45 min" }
+        ]
+      },
+      {
+        "id": "capri-aperitivo",
+        "title": "Aperitivo on Capri",
+        "place": "Capri",
+        "country": "Italy",
+        "category": "Culinary",
+        "year": 2023,
+        "description": "Spritz in the island's tiny main square, the view over the switchback road to the sea, and the Faraglioni rocks at sunset.",
+        "image": "connect-seaside-dinner",
+        "stops": [
+          { "name": "Piazzetta (Piazza Umberto I)", "duration": "~45 min" },
+          { "name": "Gardens of Augustus", "duration": "~30 min" },
+          { "name": "Faraglioni viewpoint", "duration": "~45 min" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ken",
+    "name": "Ken",
+    "home": "Tokyo, Japan",
+    "face": "connect-face-ken",
+    "experienceCount": 31,
+    "countryCount": 9,
+    "experiences": [
+      {
+        "id": "lapland-northern-lights",
+        "title": "Northern Lights in Lapland",
+        "place": "Rovaniemi",
+        "country": "Finland",
+        "category": "Nature",
+        "year": 2024,
+        "description": "Arctic nights on the Arctic Circle: the science of the aurora by day, then a dark hilltop and green skies by night.",
+        "stops": [
+          { "name": "Arktikum", "duration": "~90 min" },
+          { "name": "Ounasvaara Hill", "duration": "~2 hrs" },
+          { "name": "Santa Claus Village", "duration": "~1 hr" }
+        ]
+      },
+      {
+        "id": "kyoto-temple-mornings",
+        "title": "Kyoto's Temple Mornings",
+        "place": "Kyoto",
+        "country": "Japan",
+        "category": "Culture",
+        "year": 2025,
+        "description": "Early starts before the crowds: the wooden stage of Kiyomizu-dera, the Golden Pavilion on its pond, and a raked stone garden.",
+        "image": "connect-temple-sunset",
+        "stops": [
+          { "name": "Kiyomizu-dera", "duration": "~60 min" },
+          { "name": "Kinkaku-ji", "duration": "~45 min" },
+          { "name": "Ryōan-ji", "duration": "~40 min" }
+        ]
+      },
+      {
+        "id": "zermatt-matterhorn",
+        "title": "Under the Matterhorn",
+        "place": "Zermatt",
+        "country": "Switzerland",
+        "category": "Nature",
+        "year": 2023,
+        "description": "A cog railway into the high Alps, the Matterhorn reflected in a mountain lake, and glacier views from almost 4,000 metres.",
+        "image": "connect-alpine-lake",
+        "stops": [
+          { "name": "Gornergrat", "duration": "~2 hrs" },
+          { "name": "Riffelsee", "duration": "~45 min" },
+          { "name": "Matterhorn Glacier Paradise", "duration": "~90 min" }
+        ]
+      },
+      {
+        "id": "nichinan-coast",
+        "title": "Miyazaki's Hidden Coast",
+        "place": "Miyazaki",
+        "country": "Japan",
+        "category": "Coast",
+        "year": 2025,
+        "description": "A road trip down the Nichinan shore: an island shrine, a shrine inside a sea cave, and a row of Moai on the cliffs.",
+        "image": "earn-miyazaki-1",
+        "stops": [
+          { "name": "Aoshima Shrine", "duration": "~35 min" },
+          { "name": "Udo Shrine", "duration": "~50 min" },
+          { "name": "Sun Messe Nichinan", "duration": "~40 min" }
+        ]
+      },
+      {
+        "id": "tokyo-after-dark",
+        "title": "Tokyo After Dark",
+        "place": "Tokyo",
+        "country": "Japan",
+        "category": "Nightlife",
+        "year": 2024,
+        "description": "His home city at night: the tower lit up orange, the world's busiest crossing, and yakitori in a lantern-lit alley.",
+        "image": "connect-tokyo-tower",
+        "stops": [
+          { "name": "Tokyo Tower", "duration": "~45 min" },
+          { "name": "Shibuya Crossing", "duration": "~30 min" },
+          { "name": "Omoide Yokochō", "duration": "~60 min" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marion",
+    "name": "Marion",
+    "home": "Lyon, France",
+    "face": "connect-face-marion",
+    "experienceCount": 18,
+    "countryCount": 5,
+    "experiences": [
+      {
+        "id": "chamonix-mont-blanc",
+        "title": "Above the Clouds on Mont Blanc",
+        "place": "Chamonix",
+        "country": "France",
+        "category": "Nature",
+        "year": 2025,
+        "description": "A cable car to 3,842 metres, France's largest glacier, and a hike to a lake that mirrors the whole Mont Blanc range.",
+        "image": "connect-snowy-summit",
+        "stops": [
+          { "name": "Aiguille du Midi", "duration": "~2 hrs" },
+          { "name": "Mer de Glace", "duration": "~90 min" },
+          { "name": "Lac Blanc", "duration": "~4 hrs" }
+        ]
+      },
+      {
+        "id": "lyon-bouchons",
+        "title": "Bouchons of Old Lyon",
+        "place": "Lyon",
+        "country": "France",
+        "category": "Culinary",
+        "year": 2024,
+        "description": "Her city's food, start to finish: Renaissance lanes and traboules, the great covered market, and the basilica above it all.",
+        "image": "connect-candlelit-dinner",
+        "stops": [
+          { "name": "Vieux Lyon", "duration": "~90 min" },
+          { "name": "Les Halles de Lyon Paul Bocuse", "duration": "~60 min" },
+          { "name": "Basilica of Notre-Dame de Fourvière", "duration": "~45 min" }
+        ]
+      },
+      {
+        "id": "kyoto-night-walk",
+        "title": "Old Kyoto After Dark",
+        "place": "Kyoto",
+        "country": "Japan",
+        "category": "Culture",
+        "year": 2024,
+        "description": "A lantern-lit night walk through Higashiyama, ending at Kiyomizu-dera with the city lights below.",
+        "image": "earn-kyoto-1",
+        "stops": [
+          { "name": "Yasaka Shrine", "duration": "~30 min" },
+          { "name": "Sannenzaka", "duration": "~40 min" },
+          { "name": "Kiyomizu-dera", "duration": "~50 min" }
+        ]
+      },
+      {
+        "id": "hakone-winter-onsen",
+        "title": "Winter Hot Springs in Hakone",
+        "place": "Hakone",
+        "country": "Japan",
+        "category": "Nature",
+        "year": 2023,
+        "description": "Steam over snow: a lakeside shrine gate, the volcanic valley where eggs turn black, and an outdoor bath at dusk.",
+        "image": "connect-winter-onsen",
+        "stops": [
+          { "name": "Lake Ashi", "duration": "~45 min" },
+          { "name": "Hakone Shrine", "duration": "~40 min" },
+          { "name": "Ōwakudani", "duration": "~60 min" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alex",
+    "name": "Alex",
+    "home": "Denver, USA",
+    "face": "connect-face-alex",
+    "experienceCount": 27,
+    "countryCount": 8,
+    "experiences": [
+      {
+        "id": "iceland-golden-circle",
+        "title": "Iceland's Golden Circle",
+        "place": "Þingvellir",
+        "country": "Iceland",
+        "category": "Nature",
+        "year": 2025,
+        "description": "A day on the classic loop: the rift between two continents, a geyser that erupts every few minutes, and a two-tier waterfall.",
+        "stops": [
+          { "name": "Þingvellir National Park", "duration": "~90 min" },
+          { "name": "Geysir", "duration": "~45 min" },
+          { "name": "Gullfoss", "duration": "~45 min" }
+        ]
+      },
+      {
+        "id": "karuizawa-above-clouds",
+        "title": "Sleep Above the Clouds",
+        "place": "Karuizawa",
+        "country": "Japan",
+        "category": "Nature",
+        "year": 2024,
+        "description": "A night in the Nagano highlands: a forest hot spring, a waterfall walk at dawn, and still water at Kumoba Pond.",
+        "image": "earn-clouds-1",
+        "stops": [
+          { "name": "Tombo-no-yu Hot Spring", "duration": "~60 min" },
+          { "name": "Shiraito Falls", "duration": "~45 min" },
+          { "name": "Kumoba Pond", "duration": "~30 min" }
+        ]
+      },
+      {
+        "id": "cinque-terre",
+        "title": "Cliffs of Cinque Terre",
+        "place": "Cinque Terre",
+        "country": "Italy",
+        "category": "Coast",
+        "year": 2023,
+        "description": "Three of the five villages on foot and by train, with the sea path between them and focaccia at every stop.",
+        "stops": [
+          { "name": "Vernazza", "duration": "~90 min" },
+          { "name": "Manarola", "duration": "~60 min" },
+          { "name": "Monterosso al Mare", "duration": "~2 hrs" }
+        ]
+      },
+      {
+        "id": "hiroshima-then-and-now",
+        "title": "Hiroshima, Then and Now",
+        "place": "Hiroshima",
+        "country": "Japan",
+        "category": "Culture",
+        "year": 2024,
+        "description": "A quiet morning at the Peace Memorial, the floating torii of Miyajima at high tide, and the rebuilt castle.",
+        "stops": [
+          { "name": "Peace Memorial Park", "duration": "~75 min" },
+          { "name": "Itsukushima Shrine", "duration": "~2 hrs" },
+          { "name": "Hiroshima Castle", "duration": "~45 min" }
+        ]
+      }
+    ]
+  }
+]

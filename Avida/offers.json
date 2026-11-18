@@ -1,0 +1,120 @@
+[
+  {
+    "id": "jr-east-old-kyoto",
+    "title": "Discover Old Kyoto After Dark",
+    "partner": "JR East",
+    "rewardAmount": 500,
+    "rewardUnit": "JR Points",
+    "category": "Culture",
+    "description": "A night walk through historic Kyoto, from the lanterns of Yasaka Shrine up the stone lanes of Higashiyama to the wooden stage of Kiyomizu-dera.",
+    "place": "Kyoto",
+    "duration": "2 hrs",
+    "stops": [
+      { "name": "Yasaka Shrine", "duration": "~30 min" },
+      { "name": "Sannenzaka", "duration": "~40 min" },
+      { "name": "Kiyomizu-dera", "duration": "~50 min" }
+    ],
+    "latitude": 35.0037,
+    "longitude": 135.7785,
+    "checkInRadiusMeters": 150,
+    "images": ["earn-kyoto-1", "earn-kyoto-2", "earn-kyoto-3"]
+  },
+  {
+    "id": "hoshinoya-above-the-clouds",
+    "title": "Sleep Above the Clouds",
+    "partner": "Hoshinoya",
+    "rewardAmount": 2000,
+    "rewardUnit": "Hoshinoya Points",
+    "category": "Nature",
+    "description": "A quiet night in the forested highlands of Karuizawa: a hot-spring soak, a waterfall walk at dawn, and still water at Kumoba Pond.",
+    "place": "Karuizawa, Nagano",
+    "duration": "Overnight",
+    "stops": [
+      { "name": "Tombo-no-yu Hot Spring", "duration": "~60 min" },
+      { "name": "Shiraito Falls", "duration": "~45 min" },
+      { "name": "Kumoba Pond", "duration": "~30 min" }
+    ],
+    "latitude": 36.3594,
+    "longitude": 138.5848,
+    "checkInRadiusMeters": 150,
+    "images": ["earn-clouds-1", "earn-clouds-2", "earn-clouds-3"]
+  },
+  {
+    "id": "miyazaki-hidden-coast",
+    "title": "Find Miyazaki’s Hidden Coast",
+    "partner": "City of Miyazaki",
+    "rewardAmount": 1000,
+    "rewardUnit": "Miyazaki City Tokens",
+    "category": "Coast",
+    "description": "A coastal route along the Nichinan shore: an island shrine ringed by wave-washed rock, a clifftop pass, and a shrine built inside a sea cave.",
+    "place": "Miyazaki",
+    "duration": "Half day",
+    "stops": [
+      { "name": "Aoshima Shrine", "duration": "~35 min" },
+      { "name": "Horikiri Pass", "duration": "~25 min" },
+      { "name": "Udo Shrine", "duration": "~50 min" }
+    ],
+    "latitude": 31.8053,
+    "longitude": 131.4744,
+    "checkInRadiusMeters": 150,
+    "images": ["earn-miyazaki-1", "earn-miyazaki-2", "earn-miyazaki-3"]
+  },
+  {
+    "id": "jal-snow-monkeys",
+    "title": "Snow Monkeys in Nagano",
+    "partner": "JAL",
+    "rewardAmount": 750,
+    "rewardUnit": "JAL Miles",
+    "category": "Nature",
+    "description": "A winter route through Nagano: a forest trail to the hot springs where wild Japanese macaques bathe, then an evening in an old onsen town.",
+    "place": "Yamanouchi, Nagano",
+    "duration": "Half day",
+    "stops": [
+      { "name": "Jigokudani Trailhead", "duration": "~20 min" },
+      { "name": "Jigokudani Snow Monkey Park", "duration": "~75 min" },
+      { "name": "Shibu Onsen", "duration": "~45 min" }
+    ],
+    "latitude": 36.7327,
+    "longitude": 138.4622,
+    "checkInRadiusMeters": 150,
+    "images": ["earn-monkeys-1", "earn-monkeys-2", "earn-monkeys-3"]
+  },
+  {
+    "id": "hiroshima-peace-to-plates",
+    "title": "Hiroshima, From Peace to Plates",
+    "partner": "City of Hiroshima",
+    "rewardAmount": 1000,
+    "rewardUnit": "Hiroshima City Tokens",
+    "category": "Culture",
+    "description": "A day in the city that rebuilt itself: quiet time at the Peace Memorial and the Atomic Bomb Dome, a stroll through a 400-year-old garden, and Hiroshima-style okonomiyaki for dinner.",
+    "place": "Hiroshima",
+    "duration": "Half day",
+    "stops": [
+      { "name": "Peace Memorial Park & Atomic Bomb Dome", "duration": "~75 min" },
+      { "name": "Shukkeien Garden", "duration": "~45 min" },
+      { "name": "Okonomimura", "duration": "~45 min" }
+    ],
+    "latitude": 34.3925,
+    "longitude": 132.4528,
+    "checkInRadiusMeters": 150
+  },
+  {
+    "id": "ana-asakusa-to-skytree",
+    "title": "Old Tokyo to the Sky",
+    "partner": "ANA",
+    "rewardAmount": 1000,
+    "rewardUnit": "ANA Miles",
+    "category": "City",
+    "description": "Tokyo's oldest temple and its tallest tower in one afternoon: incense at Sensō-ji, snacks along Nakamise-dōri, then the city from 450 metres up.",
+    "place": "Tokyo",
+    "duration": "Half day",
+    "stops": [
+      { "name": "Sensō-ji", "duration": "~45 min" },
+      { "name": "Nakamise-dōri", "duration": "~30 min" },
+      { "name": "Tokyo Skytree", "duration": "~60 min" }
+    ],
+    "latitude": 35.7148,
+    "longitude": 139.7967,
+    "checkInRadiusMeters": 150
+  }
+]

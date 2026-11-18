@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "connect-alpine-lake.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

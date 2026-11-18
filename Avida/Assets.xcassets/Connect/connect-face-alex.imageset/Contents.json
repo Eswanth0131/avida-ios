@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "connect-face-alex.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

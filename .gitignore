@@ -1,0 +1,18 @@
+# Claude proxy config for the app: holds the proxy URL and app token. Copy from config/LLMConfig.example.json.
+Avida/LLMConfig.json
+
+# Cloudflare Worker local state and local secrets
+tools/proxy/.wrangler/
+tools/proxy/.dev.vars
+tools/proxy/node_modules/
+
+.DS_Store
+
+# App mockups and the investor deck: reference only, never committed or bundled
+design-reference/
+
+# Personal Claude Code settings for this project
+.claude/settings.local.json
+
+# Per-user Xcode state
+xcuserdata/

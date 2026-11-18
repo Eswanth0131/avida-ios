@@ -1,0 +1,8 @@
+name = "avida-claude-proxy"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Not secrets. The API key and app token are Worker secrets: see README.md.
+[vars]
+ALLOWED_MODELS = "claude-haiku-5-5"
+MAX_TOKENS_CAP = "4096"
